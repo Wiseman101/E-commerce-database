@@ -13,7 +13,7 @@ This project focuses on building a **relational MySQL database** schema tailored
 ## ⚙️ Technologies Used
 
 - **Database**: MySQL 8.0+
-- **ERD Design**: [dbdiagram.io](https://dbdiagram.io), MySQL Workbench
+- **ERD Design**: [dbdiagram.io](), MySQL Workbench
 - **Version Control**: Git + GitHub
 - **Dev Tools**: VS Code, Terminal/CMD
 
