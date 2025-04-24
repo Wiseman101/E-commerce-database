@@ -1,4 +1,5 @@
-
+CREATE DATABASE branddb;
+USE branddb;
 -- Brand Table
 CREATE TABLE brand (
     brand_id INT AUTO_INCREMENT PRIMARY KEY,
